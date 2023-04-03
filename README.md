@@ -20,12 +20,14 @@ Hound is a simple and light tool for information gathering and capture exact GPS
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
 </ul>
+
 # Installing and requirements
 <p>This tool require PHP for webserver, wget & Zip for download and extract ngrok. First run following command on your terminal</p>
 
 ```
 apt-get -y install php zip git wget
 ```
+
 ## Installing (Kali Linux/Termux):
 
 ```
@@ -33,7 +35,9 @@ git clone https://github.com/techchipnet/hound
 cd hound
 bash hound.sh
 ```
+
 ### Video Demo
 <p>Coming Soon</p>
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+
+### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
