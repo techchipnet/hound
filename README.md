@@ -12,6 +12,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
   <li>Automated Data Collection</li>
    <li>User-friendly Interface</li>
 </ul>
+
 ## This Tool Tested On :
 <ul>
   <li>Kali Linux</li>
@@ -21,7 +22,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
   <li>Parrot Sec OS</li>
 </ul>
 
-# Installing and requirements
+## Installing and requirements
 <p>This tool require PHP for webserver, wget & Zip for download and extract ngrok. First run following command on your terminal</p>
 
 ```
