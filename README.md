@@ -28,6 +28,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
 ## This Tool Tested On :
 <ul>
   <li>Kali Linux</li>
+  <li>Windows(WSL)</li>
   <li>Termux</li>
   <li>MacOS</li>
   <li>Ubuntu</li>
