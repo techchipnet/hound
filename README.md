@@ -1,4 +1,4 @@
-# hound
+# hound 🐶
 Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 ![image](https://user-images.githubusercontent.com/42796435/229538253-e0a9c811-60e4-4294-bd3b-8eb7621b51f5.png)
 
