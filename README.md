@@ -55,3 +55,4 @@ bash hound.sh
 
 ### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+credit - Chatbot template : Masud Rana
