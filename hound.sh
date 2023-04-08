@@ -151,6 +151,7 @@ checkfound
 }
 hound() {
 if [[ -e data.txt ]]; then
+cat data.txt >> targetreport.txt
 rm -rf data.txt
 touch data.txt
 fi
