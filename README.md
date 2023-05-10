@@ -49,6 +49,8 @@ git clone https://github.com/techchipnet/hound
 cd hound
 bash hound.sh
 ```
+## Change log:
+Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
 ### Video Demo
 [![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
