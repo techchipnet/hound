@@ -36,7 +36,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
 </ul>
 
 ## Installing and requirements
-<p>This tool require PHP for webserver, wget & unzip for download and extract ngrok. First run following command on your terminal</p>
+<p>This tool require PHP for webserver, wget & unzip. First run following command on your terminal</p>
 
 ```
 apt-get -y install php unzip git wget
