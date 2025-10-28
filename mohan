@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Website!</h1>
+    <p>This is my first HTML page.</p>
+
+    <h2>About Me</h2>
+    <p>I’m learning HTML and web development.</p>
+
+    <h3>My Hobbies</h3>
+    <ul>
+        <li>Cricket</li>
+        <li>Music</li>
+        <li>Coding</li>
+    </ul>
+
+    <p>Thank you for visiting!</p>
+</body>
+</html>
